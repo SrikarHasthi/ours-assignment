@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ours-assignment/static/css/main.4fd82894.chunk.css",
+    "main.js": "/ours-assignment/static/js/main.d604750c.chunk.js",
+    "main.js.map": "/ours-assignment/static/js/main.d604750c.chunk.js.map",
+    "runtime-main.js": "/ours-assignment/static/js/runtime-main.4de5b9ad.js",
+    "runtime-main.js.map": "/ours-assignment/static/js/runtime-main.4de5b9ad.js.map",
+    "static/js/2.c81b791c.chunk.js": "/ours-assignment/static/js/2.c81b791c.chunk.js",
+    "static/js/2.c81b791c.chunk.js.map": "/ours-assignment/static/js/2.c81b791c.chunk.js.map",
+    "index.html": "/ours-assignment/index.html",
+    "static/css/main.4fd82894.chunk.css.map": "/ours-assignment/static/css/main.4fd82894.chunk.css.map",
+    "static/js/2.c81b791c.chunk.js.LICENSE.txt": "/ours-assignment/static/js/2.c81b791c.chunk.js.LICENSE.txt",
+    "static/media/Compassion 1.8d74d37d.svg": "/ours-assignment/static/media/Compassion 1.8d74d37d.svg",
+    "static/media/Group 108.b58d4e95.svg": "/ours-assignment/static/media/Group 108.b58d4e95.svg",
+    "static/media/Group 109.f42a518c.svg": "/ours-assignment/static/media/Group 109.f42a518c.svg",
+    "static/media/Group 110.4b857d5d.svg": "/ours-assignment/static/media/Group 110.4b857d5d.svg",
+    "static/media/Group 118.f820d361.svg": "/ours-assignment/static/media/Group 118.f820d361.svg",
+    "static/media/I1 1.e908b6bd.svg": "/ours-assignment/static/media/I1 1.e908b6bd.svg",
+    "static/media/OURS Logo (White) 2.325bae5c.svg": "/ours-assignment/static/media/OURS Logo (White) 2.325bae5c.svg",
+    "static/media/bhagavgita 2.5123eb3a.svg": "/ours-assignment/static/media/bhagavgita 2.5123eb3a.svg",
+    "static/media/consciousness 1.b97c6d34.svg": "/ours-assignment/static/media/consciousness 1.b97c6d34.svg",
+    "static/media/image 3.67e9ef73.svg": "/ours-assignment/static/media/image 3.67e9ef73.svg",
+    "static/media/image 4.7f1c8b75.svg": "/ours-assignment/static/media/image 4.7f1c8b75.svg",
+    "static/media/image 5.95c207bb.svg": "/ours-assignment/static/media/image 5.95c207bb.svg",
+    "static/media/listicon.a38d6175.svg": "/ours-assignment/static/media/listicon.a38d6175.svg",
+    "static/media/mediamodifier_image (1) 1.1e7f2407.png": "/ours-assignment/static/media/mediamodifier_image (1) 1.1e7f2407.png",
+    "static/media/non duality 1.7cc9cf5d.svg": "/ours-assignment/static/media/non duality 1.7cc9cf5d.svg",
+    "static/media/self inquiry 1.606ca57c.svg": "/ours-assignment/static/media/self inquiry 1.606ca57c.svg",
+    "static/media/yoga sutra 1.487770a4.svg": "/ours-assignment/static/media/yoga sutra 1.487770a4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4de5b9ad.js",
+    "static/js/2.c81b791c.chunk.js",
+    "static/css/main.4fd82894.chunk.css",
+    "static/js/main.d604750c.chunk.js"
+  ]
+}
