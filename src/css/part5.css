@@ -1,0 +1,128 @@
+.fifth-container .container {
+  height: auto;
+  padding: 4% 8%;
+}
+@media screen and (max-width: 600px) {
+  .fifth-container {
+    width: 100%;
+  }
+  .payment-details {
+    flex-direction: column;
+  }
+  .payment-details .benefits{
+      text-align: initial;
+    margin-top: 10%;
+  }
+  .faq-container .faq-question-section .line-break{
+      width: 100%;
+  }
+  .faq-container .faq-question-section .faq-question p{
+      text-align: initial;
+  }
+}
+.fifth-container .container p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+
+  color: #888383;
+}
+.payment-details {
+  display: flex;
+  justify-content: space-between;
+  max-width: 600px;
+  margin: auto;
+  margin-top: 6%;
+}
+.payment-details .cost {
+  width: 280px;
+  height: 97px;
+  background: #f5f5f5;
+  box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.payment-details .cost p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  margin: 0;
+  line-height: 54px;
+  text-align: center;
+  color: #353535;
+}
+.benefits h3 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #353535;
+}
+.benefits ul {
+  list-style-type: none;
+  padding: 0;
+}
+.benefits ul li {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  color: #353535;
+  margin: 2% 0;
+}
+.payment-details .benefits{
+      text-align: initial;
+    
+  }
+.fifth-container .signup-button {
+  width: 188.5px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  background: #252525;
+  border-radius: 15px;
+}
+.faq-container {
+  display: flex;
+  max-width: 600px;
+  /* justify-content: center; */
+  /* align-items: center; */
+  margin: auto;
+  flex-direction: column;
+}
+.faq-question-section {
+  /* display:flex ; */
+  width: 100%;
+}
+.faq-question {
+  display: flex;
+  justify-content: space-between;
+}
+.fifth-container .container .faq-question p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  color: #353535;
+  margin-top: 1rem;
+}
+.faq-question img {
+  object-fit: contain;
+}
+.faq-question-section .line-break {
+  width: 640px;
+  height: 0px;
+  border: 0.5px solid #a9a9a9;
+}
