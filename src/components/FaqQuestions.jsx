@@ -2,12 +2,12 @@ import arrow from "../assets/Vector.png";
 let FaqQuestions = (props) => {
   return (
     <>
-      {props.data.map((e) => {
+      {props.data.map((e,index) => {
           return(
-        <div className="faq-question-section">
+        <div className="faq-question-section" key={index}>
           <div className="faq-question">
             <p>{e}</p>
-            <img src={arrow} />
+            <img alt="" src={arrow} />
           </div>
           <div className="line-break"></div>
         </div>)

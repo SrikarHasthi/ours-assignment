@@ -18,7 +18,7 @@ let Part3 = () => {
         <div className="program-details">
           <div className="program-card">
             <div className="program-photo">
-              <img src={program1photo} />
+              <img alt="" src={program1photo} />
               <div className="program-time">7:00 AM</div>
             </div>
             <div className="program-data">
@@ -27,8 +27,12 @@ let Part3 = () => {
                 <p className="duration">30 min</p>
               </div>
 
-              <p className="ledby">Led by <b>Harshvardhan Jhaveri</b></p>
-              <p>Alumni of <b>Kaivalyadham Yoga Institute</b></p>
+              <p className="ledby">
+                Led by <b>Harshvardhan Jhaveri</b>
+              </p>
+              <p>
+                Alumni of <b>Kaivalyadham Yoga Institute</b>
+              </p>
               <p>
                 Start your day with a combination of Postures (Āsana) and
                 Breathwork (Prāṇāyāma) to balance the energy in your body and
@@ -38,7 +42,7 @@ let Part3 = () => {
           </div>
           <div className="program-card">
             <div className="program-photo">
-              <img src={program2photo} />
+              <img alt="" src={program2photo} />
               <div className="program-time">10:00 PM</div>
             </div>
             <div className="program-data">
@@ -46,8 +50,12 @@ let Part3 = () => {
                 <h2>Meditation</h2>
                 <p className="duration">10 min</p>
               </div>
-              <p className="ledby">Led by <b>Gunjan Sugandhi</b></p>
-              <p>Alumni of <b>The Yoga Institute</b></p>
+              <p className="ledby">
+                Led by <b>Gunjan Sugandhi</b>
+              </p>
+              <p>
+                Alumni of <b>The Yoga Institute</b>
+              </p>
               <p>
                 End the day with Yoga Nidra, an ancient relaxation tool for
                 achieving Withdrawal (Pratyāhāra). It is a state of
@@ -57,7 +65,7 @@ let Part3 = () => {
           </div>
           <div className="program-card">
             <div className="program-photo">
-              <img src={program3photo} />
+              <img alt="" src={program3photo} />
               <div className="program-time">6:00 PM</div>
             </div>
             <div className="program-data">
@@ -67,7 +75,8 @@ let Part3 = () => {
               </div>
 
               <p>
-                Artists: <b>Anurag Dhoundeyal + Nrtya, Jahaan Shah + Srishti Biyani</b>
+                Artists:{" "}
+                <b>Anurag Dhoundeyal + Nrtya, Jahaan Shah + Srishti Biyani</b>
               </p>
               <p>
                 Concentration (Dhāraṇā) through the repetitive chanting of
@@ -78,7 +87,7 @@ let Part3 = () => {
           </div>
           <div className="program-card">
             <div className="program-photo">
-              <img src={program4photo} />
+              <img alt="" src={program4photo} />
               <div className="program-time">10:00 PM</div>
             </div>
             <div className="program-data">
@@ -86,8 +95,12 @@ let Part3 = () => {
                 <h2>Yoga Nidra</h2>
                 <p className="duration">10 min</p>
               </div>
-              <p className="ledby">Led by <b>Gunjan Sugandhi</b></p>
-              <p>Alumni of <b>The Yoga Institute</b></p>
+              <p className="ledby">
+                Led by <b>Gunjan Sugandhi</b>
+              </p>
+              <p>
+                Alumni of <b>The Yoga Institute</b>
+              </p>
               <p>
                 A morning Meditation (Dhyāna) to calm the mind and detach from
                 the senses. An ancient tecnique to help relieve stress and stay
@@ -96,8 +109,8 @@ let Part3 = () => {
             </div>
           </div>
           <p className="note">
-            <strong>Please note:</strong> The above timings are recommendations only. These
-            techniques can be practiced at any time in the day
+            <strong>Please note:</strong> The above timings are recommendations
+            only. These techniques can be practiced at any time in the day
           </p>
         </div>
       </div>

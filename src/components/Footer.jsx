@@ -8,9 +8,9 @@ return (
     <div className="footer-line"></div>
     <div className="footer-data">
       <div className="social-media">
-        <img src={image5} />
-        <img src={image3} />
-        <img src={image4} />
+        <img alt="" src={image5} />
+        <img alt="" src={image3} />
+        <img alt="" src={image4} />
       </div>
       <div className="tandc">
         <p>Privacy</p>

@@ -10,7 +10,7 @@ let Part4 = () => {
             <h1>Community</h1>
           </div>
           <div className="content">
-            <img src={mediamodifier_image} />
+            <img alt=""  src={mediamodifier_image} />
             <div className="content-data">
               <div className="content-data-section">
                 <h2>Practice Together</h2>
@@ -32,8 +32,8 @@ let Part4 = () => {
       </div>
       <div className="manifesto-container">
         <section className="sub-content mt-5">
-            <div className="sub-content-h1tag">
-          <h1> Manifesto</h1>
+          <div className="sub-content-h1tag">
+            <h1> Manifesto</h1>
           </div>
         </section>
         <div className="manifesto-data">

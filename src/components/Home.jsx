@@ -14,11 +14,11 @@ import Header from "./Header";
 let Home = () => {
   return (
     <>
-    <Header/>
-        <div class="custom-container">
+      <Header />
+      <div className="custom-container">
         <div className="main-content">
           <div className="main-photo">
-            <img src={I1} />
+            <img alt="" src={I1} />
           </div>
           <section>
             <h1>Live a Yogic Lifestyle</h1>
@@ -28,7 +28,7 @@ let Home = () => {
             </p>
             <button className="mt-3">Get Early Access</button>
           </section>
-          <img className="arrow mt-5" src={arrow} />
+          <img alt="" className="arrow mt-5" src={arrow} />
           <SubContentCard
             head="Why OURS?"
             data={[
@@ -59,7 +59,7 @@ let Home = () => {
         <Part5 />
         <Footer />
       </div>
-</>
+    </>
   );
 };
 export default Home;

@@ -5,10 +5,10 @@ let SubContentCard = (props) => {
         <h1> {props.head}</h1>
       </div>
       <div className="row sub-content-row mt-5">
-        {props.data.map((e) => {
+        {props.data.map((e,index) => {
           return (
-            <div>
-              <img src={e.imgsrc} />
+            <div key={index}>
+              <img alt="" src={e.imgsrc} />
               <h2>{e.h1tagdata}</h2>
               <p>{e.ptagdata}</p>
             </div>

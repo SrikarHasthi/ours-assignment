@@ -15,26 +15,26 @@ let Part5 = () => {
             <h3>What’s included?</h3>
             <ul>
               <li>
-                <img src={listicon} />
+                <img alt="" src={listicon} />
                 40+ Hatha Yoga Techniques
               </li>
               <li>
-                <img src={listicon} />
+                <img alt="" src={listicon} />
                 12 Guided Meditations
               </li>
               <li>
-                <img src={listicon} />
+                <img alt="" src={listicon} />
                 12 Yoga Nidra Lessons
               </li>
               <li>
-                <img src={listicon} />6 Mantra Chants
+                <img alt="" src={listicon} />6 Mantra Chants
               </li>
               <li>
-                <img src={listicon} />
+                <img alt="" src={listicon} />
                 Access to Community Forum
               </li>
               <li>
-                <img src={listicon} />
+                <img alt="" src={listicon} />
                 Upcoming Features &amp; Content
               </li>
             </ul>
@@ -43,8 +43,8 @@ let Part5 = () => {
         <button className="signup-button mt-2">Sign up</button>
         <p className="mt-3">7 Day Free Trial</p>
         <section className="sub-content mt-5">
-            <div className="sub-content-h1tag">
-          <h1> FAQs</h1>
+          <div className="sub-content-h1tag">
+            <h1> FAQs</h1>
           </div>
         </section>
         <div className="faq-container">
